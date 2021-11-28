@@ -1,5 +1,5 @@
-#This is documentation of javascript
-##Topic 1 :working with window .object
+# This is documentation of javascript
+## Topic 1 :working with window .object
 ### how to show alert
 ```
 window.alert('This is a alert box');
