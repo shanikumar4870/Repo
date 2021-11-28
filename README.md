@@ -4,5 +4,5 @@
 ~ ~ ~
 window.alert('This is a alert box');
 
- 
-![image7](https://user-images.githubusercontent.com/95132940/143728017-d1217ebe-cc91-4d81-b6e0-4e02d32df8e8.jpg)
+
+![image9](https://user-images.githubusercontent.com/95132940/143728541-18ef6585-7f58-4fc5-8216-d54c2ffd155d.jpg)
